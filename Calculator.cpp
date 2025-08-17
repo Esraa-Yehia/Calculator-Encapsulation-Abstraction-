@@ -103,20 +103,5 @@ int main()
 	Calculator1.Multiply(3);
 	Calculator1.PrintResult();
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 }
 
